@@ -1,0 +1,3 @@
+// const srting =[];
+
+// if string
